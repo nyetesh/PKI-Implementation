@@ -1,0 +1,8 @@
+com\example\schoolapp\controller\SchoolController.class
+com\example\schoolapp\dto\AuthenticationRequestData.class
+com\example\schoolapp\dto\StudentAdmitResponseDTO.class
+com\example\schoolapp\SchoolAppApplication.class
+com\example\schoolapp\util\AuthenticationDataExtractor.class
+com\example\schoolapp\dto\StudentAdmitRequestDTO.class
+com\example\schoolapp\dto\GenericRequest.class
+com\example\schoolapp\dto\RequestWrapper.class
